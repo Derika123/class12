@@ -1,0 +1,45 @@
+body{
+
+    background-image: url(../images/img13.jpg);
+    background-size: cover;
+    text-align: center;
+
+}
+
+h1{
+
+    background-color: rgb(122, 122, 178);
+    color: antiquewhite;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+section{
+    display:flex;
+}
+
+img{
+    height: 500px;
+    width: 450px;
+}
+
+img:hover{
+    transform: scale(1.2);
+    transition: transform 2s;
+}
+
+#link{
+    color:black;
+}
+
+button{
+    background-color: rgb(245, 161, 151);
+    padding: 10px;
+    margin: 20px;
+}
+

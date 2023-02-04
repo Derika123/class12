@@ -1,0 +1,55 @@
+body{
+
+    background-image: url(./images/img11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:0 auto;
+}
+
+main{
+
+    background-color: rgb(185, 239, 229);
+    padding: 20px;
+}
+
+ol{
+    list-style: none;
+    display: flex;
+    margin: 0 40%;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+li{
+    background-color: rgb(12, 88, 150);
+    padding: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+#s{
+    margin-top: 15%;
+    margin-left: 12%;
+}
+
+h1{
+
+    font-size: 40px;
+    font-family: 'Marhey';
+    color: rgb(79, 4, 77);
+}
+
+button{
+    margin-left: 12%;
+    padding: 14px;
+    border-radius: 5px;
+    color:black;
+}
+
+#b{
+    color:black;
+}
